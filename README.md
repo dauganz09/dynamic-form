@@ -1,5 +1,9 @@
 # Dynamic Form
 
+##About
+
+This dynamic form was created using NextJS and Material-UI and utilizes Zustand as the state management library.
+
 ## How to use
 
 Clone or download the repository.
